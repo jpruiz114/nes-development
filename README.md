@@ -1,6 +1,6 @@
 # NES Development
 
-A collection of Nintendo Entertainment System (NES) development examples using the CC65 cross-compiler toolchain. It includes basic C programs demonstrating core NES programming concepts. Examples cover PPU manipulation, text rendering, and hardware register access.
+Collection of Nintendo Entertainment System (NES) examples using the CC65 cross-compiler. Includes basic C programs showing core NES concepts. Covers PPU manipulation, text rendering, and hardware register access.
 
 ## Project Overview
 
