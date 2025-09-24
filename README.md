@@ -77,17 +77,17 @@ The compiled `.nes` files can be run on:
 ```
 ├── hello-world.c              # Source: "Hello, NES!" program
 ├── hello-world-compile.bat    # Compilation script
-├── hello-world.nes           # Compiled ROM
-├── hello-world.o             # Object file
-├── test-01.c                 # Source: "Hola novia!!" program
-├── test-01-compile.bat       # Compilation script
-├── test-01.nes              # Compiled ROM
-├── test-01.o                # Object file
-├── test-02.c                # Source: "Coma tapioca alcornoque" program
-├── test-02-compile.bat      # Compilation script
-├── test-02.nes             # Compiled ROM
-├── test-02.o               # Object file
-└── README.md               # This file
+├── hello-world.nes            # Compiled ROM
+├── hello-world.o              # Object file
+├── test-01.c                  # Source: "Hola novia!!" program
+├── test-01-compile.bat        # Compilation script
+├── test-01.nes                # Compiled ROM
+├── test-01.o                  # Object file
+├── test-02.c                  # Source: "Coma tapioca alcornoque" program
+├── test-02-compile.bat        # Compilation script
+├── test-02.nes                # Compiled ROM
+├── test-02.o                  # Object file
+└── README.md                  # This file
 ```
 
 ## Learning Resources
